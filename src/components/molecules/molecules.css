@@ -1,0 +1,30 @@
+.link-decor {
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.badge-number {
+    background-color: orange !important;
+    border-radius: 100%;
+    position: absolute;
+    right: -4px;
+    top: -4px
+}
+
+.singleAds {
+
+    border-radius: 0px;
+    width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    margin-bottom: 10px;
+    min-height: 220px;
+    height: 220px;
+}
+
+
+.slider-item {
+    min-height: 460px;
+    height: 460px;
+}
